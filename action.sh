@@ -1,5 +1,3 @@
-sudo apt-get update
-sudo apt-get upgrade -y
 sudo apt install git curl python3-pip ffmpeg -y
 pip3 install -U pip
 curl -sL https://deb.nodesource.com/setup_16.x | bash -
